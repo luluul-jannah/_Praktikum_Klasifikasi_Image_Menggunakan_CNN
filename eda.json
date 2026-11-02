@@ -1,0 +1,29 @@
+{
+  "total_gambar": 253,
+  "total_file": 7990,
+  "jumlah_kelas": 8,
+  "per_kelas": {
+    "Fish": 92,
+    "Coral": 19,
+    "Shark": 17,
+    "Octopuses": 11,
+    "Crustaceans": 33,
+    "Seaweed": 7,
+    "Sponges": 10,
+    "Other marine organisms": 64
+  },
+  "rasio_imbalance": 13.142857142857142,
+  "mode_warna": {
+    "RGB": 7854,
+    "P": 69,
+    "RGBA": 58,
+    "L": 9
+  },
+  "gambar_rusak": 0,
+  "ukuran_rata2": [
+    1205.7335419274093,
+    878.5913642052566
+  ],
+  "n_train": 177,
+  "n_val": 38
+}
